@@ -12,12 +12,12 @@
 
 First, install dependencies & run the development server:
 
-npm install 
-node index.js
+$npm install & then 
+$node index.js
 
 
 
-Next to see the result add some data in collections(i.e. amazon, flipcart, chroma, digital)
+Next to see the result, add some data in collections(i.e. amazon, flipcart, chroma, digital)
 
 To add the data in amazon collection use below post API with the body mentioned below
 
